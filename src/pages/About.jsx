@@ -11,7 +11,7 @@ const About = () => {
     <div className="row">
         <div className="col-md-6 d-flex align-items-center">
           <Avatar
-            src="/public/assets/kabaimg.webp"
+            src="/assets/kabaimg.webp"
             sx={{
               height: 500,
               width: 500,
@@ -84,7 +84,7 @@ const About = () => {
 
         <div className="col-md-6 d-flex align-items-center">
           <Avatar
-            src="/public/assets/masjideenabvi.jpg"
+            src="/assets/masjideenabvi.jpg"
             sx={{
               height: 400,
               width: 700,
@@ -119,7 +119,7 @@ const About = () => {
 <div className="row d-flex flex-column">
         <div className="col-md-6 d-flex flex-column align-items-center">
           <Avatar
-            src="/public/assets/kabaimg.webp"
+            src="/assets/kabaimg.webp"
             sx={{
               height: 300,
               width: 300,
@@ -192,7 +192,7 @@ const About = () => {
 
         <div className="col-md-6 d-flex align-items-center">
           <Avatar
-            src="/public/assets/masjideenabvi.jpg"
+            src="/assets/masjideenabvi.jpg"
             sx={{
               height: 300,
               width: 350,
