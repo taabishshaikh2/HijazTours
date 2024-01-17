@@ -52,7 +52,7 @@ const Footer = () => {
                     to={`mailto:${emailAddress}`}
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <Email /> hijaztours@gmail.com
+                    <Email /> Hijaztours@gmail.com
                   </Link>
                  
                   <Link
@@ -163,7 +163,7 @@ Off Tel:- +91 22-28505831/30</p>
                     to={`mailto:${emailAddress}`}
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <Email /> hijaztours@gmail.com
+                    <Email /> Hijaztours@gmail.com
                   </Link>
                  
                   <Link
