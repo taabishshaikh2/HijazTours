@@ -19,7 +19,7 @@ const Home = () => {
             <div className="justify-content-start my-auto mx-auto ">
               <h2 className="text-center">About Us</h2>
               <p>
-                TMeet the operator who pioneered luxury travel to the holy land.
+                Meet the operator who pioneered luxury travel to the holy land.
                 We are Hijaz Tours and Travels, perhaps the first who actually
                 put our feet in the pilgrim's shoes and walked that mile. Thanks
                 to many patrons who have used our services, today we stand
@@ -89,7 +89,7 @@ const Home = () => {
             <div className=" ">
               <h2 className="text-center">About Us</h2>
               <p>
-                TMeet the operator who pioneered luxury travel to the holy land.
+                Meet the operator who pioneered luxury travel to the holy land.
                 We are Hijaz Tours and Travels, perhaps the first who actually
                 put our feet in the pilgrim's shoes and walked that mile. Thanks
                 to many patrons who have used our services, today we stand
