@@ -6,7 +6,7 @@ import { Business, Email,  Phone, PhoneIphone } from "@mui/icons-material";
 
 
 const Footer = () => {
-  const emailAddress = "pastimentmt@gmail.com";
+  const emailAddress = "Hijaztours@gmail.com";
   const isNonMobile = useMediaQuery("(min-width: 1200px)");
   return (
     <>
@@ -55,22 +55,22 @@ const Footer = () => {
                     <Email /> Hijaztours@gmail.com
                   </Link>
                  
-                  <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
-                    target="_blank"
+                  <p
+                    // to="https://wa.me/message/M53JJO5UE33UF1"
+                    // target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
                     <Phone />Office +91 22-28505831/30
-                  </Link>
+                  </p>
                   <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
+                    to="https://wa.me/+919821145831"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
                     <PhoneIphone />Jameel Ahmed Ghori +91 9821145831
                   </Link>
                   <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
+                    to="https://wa.me/+917506750794"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
@@ -166,22 +166,22 @@ Off Tel:- +91 22-28505831/30</p>
                     <Email /> Hijaztours@gmail.com
                   </Link>
                  
-                  <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
-                    target="_blank"
+                  <p
+                    // to="https://wa.me/message/M53JJO5UE33UF1"
+                    // target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
                     <Phone />Office +91 22-28505831/30
-                  </Link>
+                  </p>
                   <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
+                    to="https://wa.me/+919821145831"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
                     <PhoneIphone />Jameel Ahmed Ghori +91 9821145831
                   </Link>
                   <Link
-                    to="https://wa.me/message/M53JJO5UE33UF1"
+                    to="https://wa.me/+917506750794"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
