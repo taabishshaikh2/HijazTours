@@ -89,14 +89,10 @@ const Home = () => {
             <div className=" ">
               <h2 className="text-center">About Us</h2>
               <p>
-                Meet the operator who pioneered luxury travel to the holy land.
-                We are Hijaz Tours and Travels, perhaps the first who actually
-                put our feet in the pilgrim's shoes and walked that mile. Thanks
-                to many patrons who have used our services, today we stand
-                strong in our specialty of the Hajj and Umrah vertical.
+              Meet the operator who pioneered luxury travel to the holy land. We are Hijaz Tours and Travels, perhaps the first who actually put our feet in the pilgrim's shoes and walked that mile. Thanks to many patrons who have used our services, today we stand strong in our specialty of the Hajj and Umrah vertical.
               </p>
               <p>
-              Our success story records back to 14 years of relentless hard work, perseverance and dedication towards only one focal point; "Your Comfort". What started as a small beginning as a humble service by our pioneer Haji Jameel Ahmed Ghori in 2001 , is today a professionally organized, accredited, acclaimed organization spanning all across the country
+              Our success story records back to 24 years of relentless hard work, perseverance and dedication towards only one focal point; "Your Comfort". What started as a small beginning as a humble service by our pioneer Haji Jameel Ahmed Ghori in 2001 , is today a professionally organized, accredited, acclaimed organization spanning all across the country
               </p>
               <Link to="/" className="btn btn-success">Know More...</Link>
             </div>

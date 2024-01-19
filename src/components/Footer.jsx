@@ -67,14 +67,14 @@ const Footer = () => {
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <PhoneIphone />Jameel Ahmed Ghori +91 +919821145831
+                    <PhoneIphone />Jameel Ahmed Ghori +91 9821145831
                   </Link>
                   <Link
                     to="https://wa.me/message/M53JJO5UE33UF1"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <PhoneIphone />Hannan Ahmed Ghori +91 +91 75067 50794
+                    <PhoneIphone />Hannan Ahmed Ghori +91 75067 50794
                   </Link>
                   <p
                    
@@ -178,14 +178,14 @@ Off Tel:- +91 22-28505831/30</p>
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <PhoneIphone />Jameel Ahmed Ghori +91 +919821145831
+                    <PhoneIphone />Jameel Ahmed Ghori +91 9821145831
                   </Link>
                   <Link
                     to="https://wa.me/message/M53JJO5UE33UF1"
                     target="_blank"
                     className="mb-3 text-decoration-none text-dark"
                   >
-                    <PhoneIphone />Hannan Ahmed Ghori +91 +91 75067 50794
+                    <PhoneIphone />Hannan Ahmed Ghori +91 75067 50794
                   </Link>
                   <p
                    
